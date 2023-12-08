@@ -6,7 +6,7 @@ public class guessname {
 		
 		
 		// Yilin add some comments on here
-		// Here is a implementation of input 
+		// Here is an implementation of input 
 		Scanner in = new Scanner(System.in);
 		int gcount = 0;
 		String quit = "n";
