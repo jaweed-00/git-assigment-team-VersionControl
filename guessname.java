@@ -33,6 +33,8 @@ public class guessname {
 		
 		
 		}
+		// javid added some comments on here
+		// javid added the second comment
 		System.out.println("Guess: "+gcount);
 		
 	}
