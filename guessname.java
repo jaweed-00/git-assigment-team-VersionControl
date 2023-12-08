@@ -1,3 +1,4 @@
+// Implementation of a game about number guess
 package fworlds;
 
 import java.util.Scanner;
@@ -5,7 +6,8 @@ public class guessname {
 	public static void main(String [] args) {
 		
 		
-		
+		// Yilin add some comments on here
+		// Here is an implementation of input 
 		Scanner in = new Scanner(System.in);
 		int gcount = 0;
 		String quit = "n";
