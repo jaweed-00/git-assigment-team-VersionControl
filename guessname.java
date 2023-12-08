@@ -1,3 +1,4 @@
+// Implementation of a game about number guess
 package fworlds;
 
 import java.util.Scanner;
